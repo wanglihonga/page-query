@@ -1,1 +1,5 @@
-# springmvcspringmybatis
+# 搭建SSM框架并实现简单的查询删除分页功能
+
+平台：idea
+
+版本控制：maven
