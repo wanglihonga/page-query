@@ -2,4 +2,4 @@
 
 平台：idea
 
-版本控制：maven
+依赖管理：maven
